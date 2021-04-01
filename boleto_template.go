@@ -14,7 +14,7 @@ import (
 	"strconv"
 
 	"github.com/hyperledger/fabric-chaincode-go/shim"
-	"github.com/hyperledger/fabric-protos-go/peer"
+	sc "github.com/hyperledger/fabric-protos-go/peer"
 )
 
 // Define the Smart Contract structure
